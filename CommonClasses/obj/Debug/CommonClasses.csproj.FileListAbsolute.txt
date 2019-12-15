@@ -1,0 +1,7 @@
+c:\Users\so16188\Documents\Visual Studio 2015\Projects\BikeStore\CommonClasses\bin\Debug\CommonClasses.dll
+c:\Users\so16188\Documents\Visual Studio 2015\Projects\BikeStore\CommonClasses\bin\Debug\CommonClasses.pdb
+c:\Users\so16188\Documents\Visual Studio 2015\Projects\BikeStore\CommonClasses\obj\Debug\CommonClasses.csprojResolveAssemblyReference.cache
+c:\Users\so16188\Documents\Visual Studio 2015\Projects\BikeStore\CommonClasses\obj\Debug\CommonClasses.dll
+c:\Users\so16188\Documents\Visual Studio 2015\Projects\BikeStore\CommonClasses\obj\Debug\CommonClasses.pdb
+c:\Users\so16188\Documents\Visual Studio 2015\Projects\BikeStore\CommonClasses\obj\Debug\CommonClasses.Messages.resources
+c:\Users\so16188\Documents\Visual Studio 2015\Projects\BikeStore\CommonClasses\obj\Debug\CommonClasses.csproj.GenerateResource.Cache

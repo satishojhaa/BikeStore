@@ -1,0 +1,19 @@
+c:\Users\so16188\Documents\Visual Studio 2015\Projects\BikeStore\DAO.Transactions\bin\Debug\SqlScripts\BikeStores Sample Database - create objects.sql
+c:\Users\so16188\Documents\Visual Studio 2015\Projects\BikeStore\DAO.Transactions\bin\Debug\SqlScripts\BikeStores Sample Database - drop all objects.sql
+c:\Users\so16188\Documents\Visual Studio 2015\Projects\BikeStore\DAO.Transactions\bin\Debug\SqlScripts\BikeStores Sample Database - load data.sql
+c:\Users\so16188\Documents\Visual Studio 2015\Projects\BikeStore\DAO.Transactions\bin\Debug\DAO.Transactions.dll
+c:\Users\so16188\Documents\Visual Studio 2015\Projects\BikeStore\DAO.Transactions\bin\Debug\DAO.Transactions.pdb
+c:\Users\so16188\Documents\Visual Studio 2015\Projects\BikeStore\DAO.Transactions\bin\Debug\BikeDatabaseMigrations.dll
+c:\Users\so16188\Documents\Visual Studio 2015\Projects\BikeStore\DAO.Transactions\bin\Debug\CommonClasses.dll
+c:\Users\so16188\Documents\Visual Studio 2015\Projects\BikeStore\DAO.Transactions\bin\Debug\DAO.Models.cs.dll
+c:\Users\so16188\Documents\Visual Studio 2015\Projects\BikeStore\DAO.Transactions\bin\Debug\FluentMigrator.dll
+c:\Users\so16188\Documents\Visual Studio 2015\Projects\BikeStore\DAO.Transactions\bin\Debug\BikeDatabaseMigrations.pdb
+c:\Users\so16188\Documents\Visual Studio 2015\Projects\BikeStore\DAO.Transactions\bin\Debug\CommonClasses.pdb
+c:\Users\so16188\Documents\Visual Studio 2015\Projects\BikeStore\DAO.Transactions\bin\Debug\DAO.Models.cs.pdb
+c:\Users\so16188\Documents\Visual Studio 2015\Projects\BikeStore\DAO.Transactions\bin\Debug\FluentMigrator.pdb
+c:\Users\so16188\Documents\Visual Studio 2015\Projects\BikeStore\DAO.Transactions\bin\Debug\FluentMigrator.xml
+c:\Users\so16188\Documents\Visual Studio 2015\Projects\BikeStore\DAO.Transactions\obj\Debug\DAO.Transactions.csprojResolveAssemblyReference.cache
+c:\Users\so16188\Documents\Visual Studio 2015\Projects\BikeStore\DAO.Transactions\obj\Debug\DAO.Transactions.dll
+c:\Users\so16188\Documents\Visual Studio 2015\Projects\BikeStore\DAO.Transactions\obj\Debug\DAO.Transactions.pdb
+c:\Users\so16188\Documents\Visual Studio 2015\Projects\BikeStore\DAO.Transactions\bin\Debug\Dapper.dll
+c:\Users\so16188\Documents\Visual Studio 2015\Projects\BikeStore\DAO.Transactions\bin\Debug\Dapper.xml

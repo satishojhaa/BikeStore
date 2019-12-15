@@ -1,0 +1,17 @@
+c:\Users\so16188\Documents\Visual Studio 2015\Projects\BikeStore\BusinessLogic\bin\Debug\BusinessLogic.dll
+c:\Users\so16188\Documents\Visual Studio 2015\Projects\BikeStore\BusinessLogic\bin\Debug\BusinessLogic.pdb
+c:\Users\so16188\Documents\Visual Studio 2015\Projects\BikeStore\BusinessLogic\bin\Debug\AutoMapper.dll
+c:\Users\so16188\Documents\Visual Studio 2015\Projects\BikeStore\BusinessLogic\bin\Debug\CommonClasses.dll
+c:\Users\so16188\Documents\Visual Studio 2015\Projects\BikeStore\BusinessLogic\bin\Debug\DAO.Models.cs.dll
+c:\Users\so16188\Documents\Visual Studio 2015\Projects\BikeStore\BusinessLogic\bin\Debug\DAO.Transactions.dll
+c:\Users\so16188\Documents\Visual Studio 2015\Projects\BikeStore\BusinessLogic\bin\Debug\Models.cs.dll
+c:\Users\so16188\Documents\Visual Studio 2015\Projects\BikeStore\BusinessLogic\bin\Debug\CommonClasses.pdb
+c:\Users\so16188\Documents\Visual Studio 2015\Projects\BikeStore\BusinessLogic\bin\Debug\DAO.Models.cs.pdb
+c:\Users\so16188\Documents\Visual Studio 2015\Projects\BikeStore\BusinessLogic\bin\Debug\DAO.Transactions.pdb
+c:\Users\so16188\Documents\Visual Studio 2015\Projects\BikeStore\BusinessLogic\bin\Debug\Models.cs.pdb
+c:\Users\so16188\Documents\Visual Studio 2015\Projects\BikeStore\BusinessLogic\bin\Debug\AutoMapper.xml
+c:\Users\so16188\Documents\Visual Studio 2015\Projects\BikeStore\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+c:\Users\so16188\Documents\Visual Studio 2015\Projects\BikeStore\BusinessLogic\obj\Debug\BusinessLogic.dll
+c:\Users\so16188\Documents\Visual Studio 2015\Projects\BikeStore\BusinessLogic\obj\Debug\BusinessLogic.pdb
+c:\Users\so16188\Documents\Visual Studio 2015\Projects\BikeStore\BusinessLogic\bin\Debug\Dapper.dll
+c:\Users\so16188\Documents\Visual Studio 2015\Projects\BikeStore\BusinessLogic\bin\Debug\Dapper.xml

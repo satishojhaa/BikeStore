@@ -1,0 +1,5 @@
+c:\Users\so16188\Documents\Visual Studio 2015\Projects\BikeStore\Models.cs\bin\Debug\Models.cs.dll
+c:\Users\so16188\Documents\Visual Studio 2015\Projects\BikeStore\Models.cs\bin\Debug\Models.cs.pdb
+c:\Users\so16188\Documents\Visual Studio 2015\Projects\BikeStore\Models.cs\obj\Debug\Models.csprojResolveAssemblyReference.cache
+c:\Users\so16188\Documents\Visual Studio 2015\Projects\BikeStore\Models.cs\obj\Debug\Models.cs.dll
+c:\Users\so16188\Documents\Visual Studio 2015\Projects\BikeStore\Models.cs\obj\Debug\Models.cs.pdb

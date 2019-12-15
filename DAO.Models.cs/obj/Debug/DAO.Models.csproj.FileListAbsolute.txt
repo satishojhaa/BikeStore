@@ -1,0 +1,5 @@
+c:\Users\so16188\Documents\Visual Studio 2015\Projects\BikeStore\DAO.Models.cs\bin\Debug\DAO.Models.cs.dll
+c:\Users\so16188\Documents\Visual Studio 2015\Projects\BikeStore\DAO.Models.cs\bin\Debug\DAO.Models.cs.pdb
+c:\Users\so16188\Documents\Visual Studio 2015\Projects\BikeStore\DAO.Models.cs\obj\Debug\DAO.Models.csprojResolveAssemblyReference.cache
+c:\Users\so16188\Documents\Visual Studio 2015\Projects\BikeStore\DAO.Models.cs\obj\Debug\DAO.Models.cs.dll
+c:\Users\so16188\Documents\Visual Studio 2015\Projects\BikeStore\DAO.Models.cs\obj\Debug\DAO.Models.cs.pdb

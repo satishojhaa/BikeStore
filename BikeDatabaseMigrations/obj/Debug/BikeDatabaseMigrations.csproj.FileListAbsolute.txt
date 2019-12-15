@@ -1,0 +1,11 @@
+c:\Users\so16188\Documents\Visual Studio 2015\Projects\BikeStore\BikeDatabaseMigrations\bin\Debug\BikeDatabaseMigrations.dll
+c:\Users\so16188\Documents\Visual Studio 2015\Projects\BikeStore\BikeDatabaseMigrations\bin\Debug\BikeDatabaseMigrations.pdb
+c:\Users\so16188\Documents\Visual Studio 2015\Projects\BikeStore\BikeDatabaseMigrations\bin\Debug\FluentMigrator.dll
+c:\Users\so16188\Documents\Visual Studio 2015\Projects\BikeStore\BikeDatabaseMigrations\bin\Debug\FluentMigrator.pdb
+c:\Users\so16188\Documents\Visual Studio 2015\Projects\BikeStore\BikeDatabaseMigrations\bin\Debug\FluentMigrator.xml
+c:\Users\so16188\Documents\Visual Studio 2015\Projects\BikeStore\BikeDatabaseMigrations\obj\Debug\BikeDatabaseMigrations.dll
+c:\Users\so16188\Documents\Visual Studio 2015\Projects\BikeStore\BikeDatabaseMigrations\obj\Debug\BikeDatabaseMigrations.pdb
+c:\Users\so16188\Documents\Visual Studio 2015\Projects\BikeStore\BikeDatabaseMigrations\obj\Debug\BikeDatabaseMigrations.csprojResolveAssemblyReference.cache
+c:\Users\so16188\Documents\Visual Studio 2015\Projects\BikeStore\BikeDatabaseMigrations\bin\Debug\SqlScripts\BikeStores Sample Database - create objects.sql
+c:\Users\so16188\Documents\Visual Studio 2015\Projects\BikeStore\BikeDatabaseMigrations\bin\Debug\SqlScripts\BikeStores Sample Database - drop all objects.sql
+c:\Users\so16188\Documents\Visual Studio 2015\Projects\BikeStore\BikeDatabaseMigrations\bin\Debug\SqlScripts\BikeStores Sample Database - load data.sql
